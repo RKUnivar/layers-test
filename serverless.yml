@@ -6,7 +6,7 @@ plugins:
 provider:
   name: aws
   runtime: nodejs8.10
-  stage: test
+  stage: dev
   profile: default
   region: us-east-1
   environment:
